@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447339851190",
+    "project_id": "mambas-test",
+    "storage_bucket": "mambas-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447339851190:android:7785b247267295ef80a517",
+        "android_client_info": {
+          "package_name": "com.example.pushnotificationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447339851190-2pb73c8lavqhcjrke35ikm72cken47gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZifJncUA7ZPNP36Gbv5SKzSIEU2Krelg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447339851190-2pb73c8lavqhcjrke35ikm72cken47gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
